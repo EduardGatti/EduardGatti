@@ -7,7 +7,6 @@ Bem-vindo ao meu perfil do GitHub.
 
 ---
 
-## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoGatti&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGatti&layout=compact&theme=radical)
@@ -16,15 +15,14 @@ Bem-vindo ao meu perfil do GitHub.
 
 ## 📁 Projetos em destaque
 
-- [Sistema de Cadastro de Alunos](https://github.com/EduardoGatti/sistema-cadastro)
-- [Landing Page Responsiva](https://github.com/EduardoGatti/landing-page)
-- [To-Do List com React](https://github.com/EduardoGatti/todo-react)
+- [Sistema de Gerenciamento de Alunos]([https://github.com/EduardoGatti/sistema-cadastro](https://github.com/EduardGatti/page-colegio-MaterialUI.git))
+- [Landing Page Bot Discord]([https://github.com/EduardoGatti/landing-page](https://github.com/EduardGatti/Black-Bot.git))
 
-*(Substitua os links pelos seus repositórios reais)*
+
 
 ---
 
-## 💻 Tecnologias que estou aprendendo
+## 💻 Tecnologias
 
 ![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
