@@ -2,8 +2,7 @@
 
 Bem-vindo ao meu perfil do GitHub.  
 
-🌱 Sou Técnico em Desenvolvimento de Sistemas.  
-😄 Pronomes: ele/dele 
+ Sou Técnico em Desenvolvimento de Sistemas.  
 
 ---  
 
