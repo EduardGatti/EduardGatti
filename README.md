@@ -15,8 +15,8 @@ Bem-vindo ao meu perfil do GitHub.
 
 ## 📁 Projetos em destaque
 
-- [Sistema de Gerenciamento de Alunos]([https://github.com/EduardoGatti/sistema-cadastro](https://github.com/EduardGatti/page-colegio-MaterialUI.git))
-- [Landing Page Bot Discord]([https://github.com/EduardoGatti/landing-page](https://github.com/EduardGatti/Black-Bot.git))
+- [Sistema de Gerenciamento de Alunos]([https://github.com/EduardoGatti/sistema-cadastro](https://github.com/EduardGatti/page-colegio-MaterialUI.git)])
+- [Landing Page Bot Discord]([https://github.com/EduardoGatti/landing-page](https://github.com/EduardGatti/Black-Bot.git)])
 
 
 
