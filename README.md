@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Eduardo Gatti
 
-<!--
-**EduardGatti/EduardGatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub.  
 
-Here are some ideas to get you started:
+🌱 Sou Técnico em Desenvolvimento de Sistemas.  
+😄 Pronomes: ele/dele 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+## GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoGatti&show_icons=true&theme=radical)  
+
+## Top Languages  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoGatti&layout=compact&theme=radical)  
+
+---  
+
+💻 Technologies and tools I'm learning:  
+HTML5, CSS3, JavaScript, React, GitHub, MySQL
+
+📫 Reach me:  
+- Email: [egatti662@gmail.com](mailto:egatti662@gmail.com)  
+- LinkedIn: [Eduardo Gatti](https://www.linkedin.com/in/eduardo-gatti-js/)
